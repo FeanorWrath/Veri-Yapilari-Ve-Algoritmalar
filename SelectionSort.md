@@ -10,7 +10,7 @@
 >**d-) [2,6,16,18,22,27]**--> n-3 işlem gerçekleştirildi ve sonucumuzu elde etmiş olduk.
 
 **2.Big-O Gösterimini yazınız.**    
->**n+(n-1)+(n-2)+(n-3)+…+1= n*(n+1)/2 --> O(n^2) (Not: Domine eden fonksiyon alınır, katsayılar önemsenmez.**
+>n+(n-1)+(n-2)+(n-3)+…+1= n*(n+1)/2 --> O(n^2) (Not: Domine eden fonksiyon alınır, katsayılar önemsenmez.
 
 **3.Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case’lerden hangisinin kapsamına girer? Yazınız**
 >**Dizi de aranan 18 sayısı ortaya yakın bir yerde olması sebebiyle cevap Average case olmalıdır.  
