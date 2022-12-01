@@ -23,4 +23,4 @@
 >[2,3,4,5|7,9,8,15,6] --> n-3 işlem gerçekleştirildi  
 
 
-[Patika.dev](www.patika.dev)
+[Patika.dev](https://www.patika.dev/)
